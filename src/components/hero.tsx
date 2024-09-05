@@ -13,7 +13,7 @@ const Hero = () => {
 
            <div className="relative">
             <div className="text-8xl font-bold text-center">
-                <h1 className="text-[#98B4CE]">Hi, I&apos;m</h1>
+                <h1 className="text-[#98B4CE]">Hi, I'm</h1>
                 <h1 className="text-[#E48A57]">Sumit Raj</h1>
             </div>
 
@@ -48,7 +48,7 @@ const Hero = () => {
            </div>
            
            <p className="text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80" >
-            I&apos;m a full-stack developer focused on creating websites that provide the best experience for users.
+            I am a full-stack developer focused on creating websites that provide the best experience for users.
            </p>
            <Image
                 src={profilepic}
